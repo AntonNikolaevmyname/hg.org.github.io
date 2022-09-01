@@ -1,4 +1,4 @@
-[Мой Twitch](https://www.twitch.tv/henningsvaerl)
+[Мой twitch](https://www.twitch.tv/henningsvaerl)
 
 [Мой github](https://github.com/AntonNikolaevmyname)
 
