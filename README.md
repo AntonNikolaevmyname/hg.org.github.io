@@ -1,7 +1,7 @@
 
-<div style="background-color: rgb(50, 50, 50);">
+<div style="background-color: #000; color: #fff;">
 
-# HenningsvaerRTS 
+# <div style="color: #ff0000;">H</div>enningsvaerRTS 
 
 ![image](https://user-images.githubusercontent.com/34309871/187972346-706e2aa5-66ee-4224-b059-7d8aa6ee2c06.png)
 
