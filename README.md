@@ -3,12 +3,9 @@
 # HenningsvaerRTS
 ---------------------------------------------
 
-<div style="background-color: #000; color: #fff;">
-  
-## [Мой twitch](https://www.twitch.tv/henningsvaerl)
+## [<div style="background-color: #000; color: #fff;">Мой twitch</div>](https://www.twitch.tv/henningsvaerl)
 
 ## [Мой github](https://github.com/AntonNikolaevmyname)
-</div>
 
 ---------------------------------------------
 
