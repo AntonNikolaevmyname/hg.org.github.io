@@ -1,5 +1,7 @@
 [Мой Twitch](https://www.twitch.tv/henningsvaerl)
 
+[Мой github](https://github.com/AntonNikolaevmyname)
+
 ---------------------------------------------
 Привет, сейчас у меня в разработке находится стратегия в реальном времени.
 
