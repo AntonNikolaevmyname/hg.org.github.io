@@ -20,4 +20,4 @@
 
 ## Game status: 
 
-<div style="color: #00ff00;"> > In Progress</div>
+<div style="background-color: #000; color: #00ff00;"> > In Progress</div>
