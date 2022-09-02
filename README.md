@@ -17,3 +17,7 @@
 </div>
 
 ---------------------------------------------
+
+## Game status: 
+
+<div style="color: #00ff00;"> > In Progress</div>
